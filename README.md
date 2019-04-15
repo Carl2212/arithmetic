@@ -6,8 +6,8 @@ Demos about javascript arithmetic
 #题2： 判断表达式中包含的三种类型括号是否正确闭合，{},[],()
 
 #题3：  There are two sorted arrays nums1 and nums2 of size m and n respectively.
- Find the median of the two sorted arrays. The overall run time complexity should be O(log (m+n)).
- You may assume nums1 and nums2 cannot be both empty.
+        Find the median of the two sorted arrays. The overall run time complexity should be O(log (m+n)).
+        You may assume nums1 and nums2 cannot be both empty.
 example1: 
     nums1 = [1,3]
     nums2 = [2]
